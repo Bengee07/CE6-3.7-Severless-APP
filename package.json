@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "serverless-offline": "^13.7.0"
+  },
+  "dependencies": {
+    "punycode": "^2.3.1"
+  }
+}
